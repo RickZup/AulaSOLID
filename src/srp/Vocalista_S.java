@@ -1,6 +1,6 @@
 package srp;
 
-public class VocalistaSRP extends MusicoSRP {
+public class Vocalista_S extends Musico_S {
 
     public void cantar(){}
 

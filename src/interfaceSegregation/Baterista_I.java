@@ -1,6 +1,6 @@
 package interfaceSegregation;
 
-public class Baterista extends MembroDaBanda implements Musico {
+public class Baterista_I extends MembroDaBanda_I implements Musico_I {
 
     public void tocarBateria(){}
 

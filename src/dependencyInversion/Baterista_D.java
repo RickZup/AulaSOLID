@@ -1,8 +1,10 @@
-package interfaceSegregation;
+package dependencyInversion;
 
-public class Baterista_I extends MembroDaBanda_I implements Musico_I {
+public class Baterista_D extends MembroDaBanda_D implements Musico_D {
 
-    public void tocarBateria(){}
+    public void tocarBateria(){
+        System.out.println("\uD83E\uDD41 TOCANDO BATERIA!!!");
+    }
 
     @Override
     public void ensaiar() {
@@ -11,6 +13,6 @@ public class Baterista_I extends MembroDaBanda_I implements Musico_I {
 
     @Override
     public void seApresentar() {
-
+        tocarBateria();
     }
 }

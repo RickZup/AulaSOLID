@@ -1,6 +1,6 @@
 package openClosed;
 
-public class BateristaOC extends MusicoOC {
+public class Baterista_O extends Musico_O {
 
     public void tocarBateria(){}
 

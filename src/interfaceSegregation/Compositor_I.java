@@ -1,6 +1,6 @@
 package interfaceSegregation;
 
-public interface Compositor {
+public interface Compositor_I {
 
     public void compor();
 

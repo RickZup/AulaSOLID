@@ -1,6 +1,6 @@
-package interfaceSegregation;
+package dependencyInversion;
 
-public class MembroDaBanda_I {
+public abstract class MembroDaBanda_D {
 
     //Atributos
     private String nome;

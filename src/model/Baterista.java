@@ -1,6 +1,6 @@
-package srp;
+package model;
 
-public class BateristaSRP extends MusicoSRP {
+public class Baterista extends Musico {
 
     public void tocarBateria(){}
 

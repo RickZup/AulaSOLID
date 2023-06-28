@@ -1,6 +1,6 @@
-package srp;
+package model;
 
-public class MusicoSRP {
+public class Musico {
 
     //Atributos
     private String nome;

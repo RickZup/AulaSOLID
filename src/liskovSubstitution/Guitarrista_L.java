@@ -1,6 +1,6 @@
 package liskovSubstitution;
 
-public class GuitarristaLS extends MusicoLS {
+public class Guitarrista_L extends Musico_L {
 
     private String guitarra;
 

@@ -1,6 +1,6 @@
 package liskovSubstitution;
 
-public class BateristaLS extends MusicoLS {
+public class Baterista_L extends Musico_L {
 
     private String bateria;
 

@@ -1,6 +1,6 @@
 package liskovSubstitution;
 
-public class MusicoLS {
+public class Musico_L {
 
     //Atributos
     private String nome;

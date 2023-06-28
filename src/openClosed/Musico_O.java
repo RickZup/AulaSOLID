@@ -1,6 +1,6 @@
 package openClosed;
 
-public class MusicoOC {
+public class Musico_O {
 
     //Atributos
     private String nome;

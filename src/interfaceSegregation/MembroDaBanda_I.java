@@ -1,6 +1,6 @@
 package interfaceSegregation;
 
-public class MembroDaBanda {
+public class MembroDaBanda_I {
 
     //Atributos
     private String nome;

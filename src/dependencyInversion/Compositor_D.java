@@ -1,6 +1,6 @@
-package interfaceSegregation;
+package dependencyInversion;
 
-public interface Compositor_I {
+public interface Compositor_D {
 
     public void compor();
 

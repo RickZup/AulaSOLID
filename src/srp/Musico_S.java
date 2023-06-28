@@ -1,6 +1,6 @@
 package srp;
 
-public class MusicoSRP {
+public class Musico_S {
 
     //Atributos
     private String nome;

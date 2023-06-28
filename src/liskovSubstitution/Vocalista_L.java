@@ -1,6 +1,6 @@
 package liskovSubstitution;
 
-public class VocalistaLS extends MusicoLS {
+public class Vocalista_L extends Musico_L {
 
     private String microfone;
 
